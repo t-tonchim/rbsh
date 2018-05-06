@@ -1,6 +1,6 @@
-RSpec.describe Rbsh do
+RSpec.describe Rbshell do
   it "has a version number" do
-    expect(Rbsh::VERSION).not_to be nil
+    expect(Rbshell::VERSION).not_to be nil
   end
 
   it "does something useful" do

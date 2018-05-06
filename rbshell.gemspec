@@ -1,11 +1,11 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "rbsh/version"
+require "rbshell/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "rbsh"
-  spec.version       = Rbsh::VERSION
+  spec.name          = "rbshell"
+  spec.version       = Rbshell::VERSION
   spec.authors       = ["t-tonchim"]
   spec.email         = ["masuminium5@gmail.com"]
 
