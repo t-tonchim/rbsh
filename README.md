@@ -2,12 +2,6 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'rbshell'
-```
-
 ```
   $ git clone https://github.com/t-tonchim/rbsh.git
   $ cd rbsh
