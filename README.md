@@ -1,6 +1,7 @@
 # Rbshell
 
 ## Installation
+:warning: Use at your own risk
 
 ```
   $ git clone https://github.com/t-tonchim/rbsh.git
